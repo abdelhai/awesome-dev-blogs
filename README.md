@@ -2,7 +2,7 @@
 >A collection of programming blogs run by individuals
 
 ##Opinions & general:
-http://matt.might.net/articles/
+http://matt.might.net/articles/  
 https://goel.io/  
 http://gethinoakes.com/  
 http://blog.nullspace.io/  

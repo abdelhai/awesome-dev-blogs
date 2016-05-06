@@ -62,6 +62,7 @@ http://akaptur.com/
 http://lucumr.pocoo.org/  
 https://alexmorozov.github.io/  
 http://neopythonic.blogspot.com  
+https://www.peterbe.com/  
 
 ##Go:
 https://nathany.com/  

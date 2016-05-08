@@ -100,6 +100,7 @@ http://www.tedunangst.com/flak/
 https://www.snellman.net/blog/  
 
 ##Systems:
+https://major.io/  
 http://kamalmarhubi.com/blog/  
 https://brooker.co.za/blog/  
 http://rachelbythebay.com/w/  

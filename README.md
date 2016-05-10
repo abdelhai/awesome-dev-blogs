@@ -123,6 +123,7 @@ http://oleb.net/
 
 ##DBs:
 http://antirez.com/latest/0  
+http://akorotkov.github.io/  
 
 ##Android
 http://wahibhaq.com/blog/ultimate-resources-android-dev/  

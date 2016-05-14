@@ -33,6 +33,8 @@ http://www.evanmiller.org/index.html
 http://lebo.io/  
 https://journal.dedasys.com/  
 http://blog.codinghorror.com/  
+http://akkartik.name/  
+http://www.gmarik.info/  
 
 ##Ruby:
 http://tenderlovemaking.com/  
@@ -63,10 +65,17 @@ http://lucumr.pocoo.org/
 https://alexmorozov.github.io/  
 http://neopythonic.blogspot.com  
 https://www.peterbe.com/  
+http://pbpython.com/  
 
 ##Go:
 https://nathany.com/  
 http://herman.asia/  
+http://www.minaandrawos.com/  
+https://blog.filippo.io/  
+http://dave.cheney.net/  
+http://brandonokert.com/  
+https://machiel.me/  
+https://cognitive.io/  
 
 
 
@@ -95,6 +104,7 @@ https://blog.bramp.net/
 
 ##Security:
 http://www.tedunangst.com/flak/  
+http://sijmen.ruwhof.net/weblog/
 
 ##Networking:
 https://www.snellman.net/blog/  

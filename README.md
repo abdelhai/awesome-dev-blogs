@@ -97,7 +97,7 @@ http://danluu.com/
 http://preshing.com/  
 https://blog.acolyer.org/  
 
-## Polyglot:
+##Polyglot:
 http://eli.thegreenplace.net/  
 https://adambard.com/blog/  
 https://blog.bramp.net/  
@@ -147,3 +147,6 @@ http://www.creativedeletion.com/
 http://joearms.github.io/index.html  
 http://theerlangelist.com/  
 http://blog.plataformatec.com.br/  
+
+##C/C++
+http://blog.petrzemek.net/  

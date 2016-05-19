@@ -67,6 +67,7 @@ https://alexmorozov.github.io/
 http://neopythonic.blogspot.com  
 https://www.peterbe.com/  
 http://pbpython.com/  
+https://arcpy.wordpress.com/  
 
 ##Go:
 https://nathany.com/  

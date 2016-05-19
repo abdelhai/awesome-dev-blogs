@@ -35,6 +35,7 @@ https://journal.dedasys.com/
 http://blog.codinghorror.com/  
 http://akkartik.name/  
 http://www.gmarik.info/  
+https://www.tbray.org/ongoing/  
 
 ##Ruby:
 http://tenderlovemaking.com/  
@@ -83,6 +84,7 @@ https://cognitive.io/
 https://blogs.msdn.microsoft.com/abhinaba/  
 http://aakinshin.net/en/blog/content/  
 http://www.adamtuliper.com/  
+https://www.exceptionnotfound.net/  
 
 ##Hardware:
 http://www.chrisfenton.com/  

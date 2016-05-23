@@ -81,7 +81,6 @@ https://machiel.me/
 https://cognitive.io/  
 
 
-
 ##C# & .net
 https://blogs.msdn.microsoft.com/abhinaba/  
 http://aakinshin.net/en/blog/content/  
@@ -122,6 +121,7 @@ http://aarvik.dk/
 
 ##Clojure:
 https://aphyr.com/posts  
+http://yogthos.net/  
 
 ##Lisp:
 http://www.pvk.ca/  

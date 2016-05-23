@@ -36,6 +36,7 @@ http://blog.codinghorror.com/
 http://akkartik.name/  
 http://www.gmarik.info/  
 https://www.tbray.org/ongoing/  
+http://solnic.eu/  
 
 ##Ruby:
 http://tenderlovemaking.com/  

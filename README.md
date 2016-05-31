@@ -38,6 +38,9 @@ http://www.gmarik.info/
 https://www.tbray.org/ongoing/  
 http://solnic.eu/  
 
+## Fuctional Programming:
+https://fsharpforfunandprofit.com/  
+
 ##Ruby:
 http://tenderlovemaking.com/  
 https://samurails.com/  

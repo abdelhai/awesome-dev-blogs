@@ -37,6 +37,7 @@ http://akkartik.name/
 http://www.gmarik.info/  
 https://www.tbray.org/ongoing/  
 http://solnic.eu/  
+https://codeandunicorns.com/
 
 ## Fuctional Programming:
 https://fsharpforfunandprofit.com/  

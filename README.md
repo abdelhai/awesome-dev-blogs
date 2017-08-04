@@ -1,7 +1,7 @@
 # Awesome Dev Blogs
 >A collection of programming blogs run by individuals
 
-##Opinions & general:
+## Opinions & general:
 http://matt.might.net/articles/  
 https://goel.io/  
 http://gethinoakes.com/  
@@ -42,16 +42,16 @@ https://codeandunicorns.com/
 ## Fuctional Programming:
 https://fsharpforfunandprofit.com/  
 
-##Ruby:
+## Ruby:
 http://tenderlovemaking.com/  
 https://samurails.com/  
 http://codon.com/articles  
 http://patshaughnessy.net/  
 
-##Java
+## Java
 http://psy-lob-saw.blogspot.com/  
 
-##JavaScript
+## JavaScript
 https://medium.com/@kentcdodds  
 http://mrale.ph/  
 https://addyosmani.com/blog/  
@@ -60,10 +60,10 @@ http://blog.andrewray.me/
 http://ariya.ofilabs.com/  
 http://www.2ality.com/  
 
-##Reverse engineering:
+## Reverse engineering:
 http://r3ndom.tk/  
 
-##Python:
+## Python:
 http://www.dabeaz.com/blog.html  
 http://masnun.com/  
 http://akaptur.com/  
@@ -74,7 +74,7 @@ https://www.peterbe.com/
 http://pbpython.com/  
 https://arcpy.wordpress.com/  
 
-##Go:
+## Go:
 https://nathany.com/  
 http://herman.asia/  
 http://www.minaandrawos.com/  
@@ -86,16 +86,16 @@ https://cognitive.io/
 http://spf13.com/  
 
 
-##C# & .net
+## C# & .net
 https://blogs.msdn.microsoft.com/abhinaba/  
 http://aakinshin.net/en/blog/content/  
 http://www.adamtuliper.com/  
 https://www.exceptionnotfound.net/  
 
-##Hardware:
+## Hardware:
 http://www.chrisfenton.com/  
 
-##Low level:
+## Low level:
 http://davidad.github.io/  
 https://blog.lse.epita.fr/  
 http://duartes.org/gustavo/blog/  
@@ -105,57 +105,57 @@ http://danluu.com/
 http://preshing.com/  
 https://blog.acolyer.org/  
 
-##Polyglot:
+## Polyglot:
 http://eli.thegreenplace.net/  
 https://adambard.com/blog/  
 https://blog.bramp.net/  
 
-##Security:
+## Security:
 http://www.tedunangst.com/flak/  
 http://sijmen.ruwhof.net/weblog/
 
-##Networking:
+## Networking:
 https://www.snellman.net/blog/  
 
-##Systems:
+## Systems:
 https://major.io/  
 http://kamalmarhubi.com/blog/  
 https://brooker.co.za/blog/  
 http://rachelbythebay.com/w/  
 http://aarvik.dk/  
 
-##Clojure:
+## Clojure:
 https://aphyr.com/posts  
 http://yogthos.net/  
 
-##Lisp:
+## Lisp:
 http://www.pvk.ca/  
 http://endlessparentheses.com/  
 
-##Rust
+## Rust
 http://huonw.github.io/  
 
-##Swift + obj-c
+## Swift + obj-c
 http://www.andrewcbancroft.com/  
 https://medium.com/swift-programming  
 http://oleb.net/  
 
-##DBs:
+## DBs:
 http://antirez.com/latest/0  
 http://akorotkov.github.io/  
 
-##Android
+## Android
 http://wahibhaq.com/blog/ultimate-resources-android-dev/  
 
-##AI
+## AI
 https://blog.gregbrockman.com/  
 
-##Elixir + Erlang
+## Elixir + Erlang
 https://blog.drewolson.org/  
 http://www.creativedeletion.com/  
 http://joearms.github.io/index.html  
 http://theerlangelist.com/  
 http://blog.plataformatec.com.br/  
 
-##C/C++
+## C/C++
 http://blog.petrzemek.net/  

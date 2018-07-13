@@ -38,6 +38,7 @@ http://www.gmarik.info/
 https://www.tbray.org/ongoing/  
 http://solnic.eu/  
 https://codeandunicorns.com/
+http://reesespieces.io/
 
 ## Fuctional Programming:
 https://fsharpforfunandprofit.com/  

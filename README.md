@@ -73,6 +73,7 @@ http://neopythonic.blogspot.com
 https://www.peterbe.com/  
 http://pbpython.com/  
 https://arcpy.wordpress.com/  
+https://humberto.io/blog/
 
 ## Go:
 https://nathany.com/  
